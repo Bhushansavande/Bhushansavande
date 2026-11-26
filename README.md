@@ -1,6 +1,6 @@
 # Hi, I'm Bhushan Savande 👋
 
-Founder of **Life Style Knowledge Hub (LSKH)**, a self-taught developer from Jalgaon, Maharashtra, India. I build **free, open-source tools** that solve everyday problems, and I build them for people on phones as much as on laptops.
+Founder of **Life Style Knowledge Hub (LSKH)**, a self-taught developer from Maharashtra, India. I build **free, open-source tools** that solve everyday problems, and I build them for people on phones as much as on laptops.
 
 I work mainly with **Flutter, Python and the web (HTML/JavaScript)**.
 
